@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Akil from Dominica, I'm a  Service Desk Tech who dreams in ☁️. E My main focus is learning more about the inricracies of cloud engineering by taking on various cloud projects.
+I'm Akil from Dominica, I'm a  Service Desk Tech who dreams in ☁️. My main focus is learning more about the inricracies of cloud engineering by taking on various cloud projects.
 I try to learn 🌱 everyday...
 
 
