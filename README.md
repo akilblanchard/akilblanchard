@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Akil from Dominica, I'm a  Service Desk Tech who dreams in ☁️. My main focus is learning more about the inricracies of cloud engineering by taking on various cloud projects.
+I'm Akil from Dominica, I'm a  Service Desk Tech who dreams in ☁️. My main focus is learning more about Cloud Computing by taking on various cloud projects.
 I try to learn 🌱 everyday...
 
 
@@ -15,6 +15,12 @@ I try to learn 🌱 everyday...
  ![](https://img.shields.io/badge/Code-Python-informational?style=flat-square&logo=go&logoColor=white&color=007CF0)
  ![](https://img.shields.io/badge/Shell-ZSH-informational?style=flat-square&logo=gnu-bash&logoColor=white&color=007CF0)
 
+
+
+
+- 💬 Ask me about: My projects and what challenges I faced when working on them or about the caribbean 😄
+- 😄 Pronouns: That guy
+- 🔭 I’m currently working on: Whatever errors I get when running code 
 
 ## Get in touch 🥯: ☕:
 
@@ -37,8 +43,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
