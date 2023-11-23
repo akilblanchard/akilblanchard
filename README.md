@@ -7,7 +7,9 @@ I'm a developer from Dominica who is based in Dallas, TX and I
 - :zap: Fun Fact: I started using the CLI before I actually knew what it was.
 - :zap: In my free time, I'm either at the gym, playing saxophone or struggling to beat a God of War level.
 
-
+---
+## 🔭 Current Endeavors :
+I’m currently working as a Service Desk Technician and on my own I am learning about programming and contributing to frontend and backend for building web applications.
 
 ---
 
@@ -27,9 +29,6 @@ I'm a developer from Dominica who is based in Dallas, TX and I
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akilblanchard&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
----
-## 🔭 Current Endeavors :
-I’m currently working as a Service Desk Technician and on my own I am learning about programming and contributing to frontend and backend for building web applications.
 
 
 
