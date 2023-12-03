@@ -9,7 +9,8 @@ I'm a developer from Dominica who is based in Dallas, TX and I
 
 ---
 ## 🔭 Current Endeavors :
-I’m currently working as a Service Desk Technician and on my own I am learning about programming and contributing to frontend and backend for building web applications.
+I’m currently working as a Service Desk Technician and on my own I am learning DevOps Methodoliges, Cloud Technologies and Select programming languages to build projects that interest me.
+
 
 ---
 
