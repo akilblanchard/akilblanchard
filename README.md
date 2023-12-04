@@ -3,7 +3,7 @@
 I'm a developer from Dominica who is based in Dallas, TX and I
 
 - :telescope: Check out my [blog](https://medium.com/@akilblanchard09) where I share my insights and learning in detail 
-- :seedling: Exploring new technologies
+- :zap:: Exploring new technologies
 - :zap: Fun Fact: I started using the CLI before I actually knew what it was.
 - :zap: In my free time, I'm either at the gym, playing saxophone or struggling to beat God of War.
 
@@ -14,7 +14,7 @@ I’m currently working as a Service Desk Technician and on my own I am learning
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### 🤔 Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original-wordmark.svg" title="Terraform" alt="Terraform" width="40" height="40"/>&nbsp;
@@ -25,7 +25,7 @@ I’m currently working as a Service Desk Technician and on my own I am learning
 </div>
 
 ---
-### :fire: My Stats :
+### 🌱 My Stats :
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=akilblanchard&theme=transparent&hide_border=true)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akilblanchard&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
