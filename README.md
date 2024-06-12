@@ -1,6 +1,6 @@
 ### Hi, I'm Akil 👋
 
-I'm a developer from Dominica who is based in Dallas, TX and I
+I'm a DevOps Analyst from Dominica who is based in Dallas, TX and I
 
 - :telescope: Check out my [blog](https://medium.com/@akilblanchard09) where I share my insights and learning in detail 
 - :zap: Exploring new technologies
@@ -9,7 +9,7 @@ I'm a developer from Dominica who is based in Dallas, TX and I
 
 ---
 ## 🔭 Current Endeavors :
-I’m currently working as a Service Desk Technician and on my own I am learning DevOps Methodoliges, Cloud Technologies and Select programming languages to build projects that interest me.
+I’m currently learning Kubernetes and everything related to Cloud/DevOps.
 
 
 ---
